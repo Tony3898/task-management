@@ -1,0 +1,35 @@
+.MuiButtonBase-root .MuiCheckbox-root {
+    color: #EEEEEE;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.justify-between {
+    justify-content: space-between;
+
+}
+
+.flex-direction-row {
+    flex-direction: row;
+}
+
+.items-flex-start {
+    align-items: flex-start;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
