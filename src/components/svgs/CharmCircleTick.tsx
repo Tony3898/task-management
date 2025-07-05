@@ -1,6 +1,4 @@
-import * as React from "react";
-
-const SvgCharmCircleTick = (props) => (
+const SvgCharmCircleTick = (props:any) => (
   <svg
     width={24}
     height={24}

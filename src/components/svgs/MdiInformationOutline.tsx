@@ -1,6 +1,4 @@
-import * as React from "react";
-
-const SvgMdiInformationOutline = (props) => (
+const SvgMdiInformationOutline = (props:any) => (
   <svg
     width={24}
     height={24}
